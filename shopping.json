@@ -1,0 +1,86 @@
+{
+    "shopping":[
+        {
+            "slno":"1",
+            "name":"sugar",
+            "qty":"2",
+            "unit":"kg",
+            "dept":"food item",
+            "notes":"loose"
+        },
+        {
+            "slno":"2",
+            "name":"salt",
+            "qty":"2",
+            "unit":"kg",
+            "dept":"food item",
+            "notes":"loose"
+            
+        },
+        {
+            "slno":"3",
+            "name":"milk",
+            "qty":"3",
+            "unit":"packet",
+            "dept":"food item",
+            "notes":"milma"
+        },
+        {
+            "slno":"4",
+            "name":"rice",
+            "qty":"5",
+            "unit":"kg",
+            "dept":"food item",
+            "notes":"pavizham"
+        },
+        {
+            "slno":"5",
+            "name":"notebook",
+            "qty":"1",
+            "unit":"number",
+            "dept":"stationary",
+            "notes":"classmate"
+
+        },
+        {
+            "slno":"6",
+            "name":"pen",
+            "qty":"1",
+            "unit":"number",
+            "dept":"stationary",
+            "notes":"blue"
+        },
+        {
+            "slno":"7",
+            "name":"soap",
+            "qty":"5",
+            "unit":"number",
+            "dept":"health",
+            "notes":"pears"
+        },
+        {
+            "slno":"8",
+            "name":"detergent",
+            "qty":"1",
+            "unit":"packet",
+            "dept":"stationary",
+            "notes":"sunlight"
+        },
+        {
+            "slno":"9",
+            "name":"sanitizer",
+            "qty":"1",
+            "unit":"number",
+            "dept":"health",
+            "notes":"dettol"
+        },
+        {
+            "slno":"10",
+            "name":"coconut oil",
+            "qty":"1",
+            "unit":"litre",
+            "dept":"food item",
+            "notes":"kera"
+        }
+    ]
+}
